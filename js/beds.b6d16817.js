@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["beds"],{4166:function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"beds"},[n("h1",[e._v("Verifications are in progress for all the available beds in the city")])])}],i=n("2877"),r={},l=Object(i["a"])(r,s,a,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=beds.b6d16817.js.map
